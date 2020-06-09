@@ -26,9 +26,9 @@ Consuming Pokémon API information. Using buttons to select the next or the prev
 ## Installation
  
 ## Cloning the Repository
-$ git clone https://github.com/eltoncelestino/Pokemon-Information-React.git
+$ git clone https://github.com/eltoncelestino/Pokemon-react.git
 
-$ cd Pokemon-Information-React
+$ cd Pokemon-react
  
 ## Installing dependencies
 $ yarn
